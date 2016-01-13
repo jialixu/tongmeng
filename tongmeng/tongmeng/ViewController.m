@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"小企鹅");
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
