@@ -19,6 +19,11 @@
     
     NSLog(@"小企鹅");
     
+    NSLog(@"小浣熊");
+    NSLog(@"小浣熊");
+    NSLog(@"小浣熊");
+    NSLog(@"小浣熊");
+    
     
     // Do any additional setup after loading the view, typically from a nib.
 }
