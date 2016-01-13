@@ -24,6 +24,9 @@
     NSLog(@"小浣熊");
     NSLog(@"小浣熊");
     
+    NSLog(@"以为自己很洒脱");
+    NSLog(@"依然那么孤傲");
+    
     
     // Do any additional setup after loading the view, typically from a nib.
 }
